@@ -2,11 +2,11 @@
 
 Change between Light and Dark Mode
 
-<a href='https://alfred.app/workflows/alfredapp/switch-appearance'>⤓ Install on the Alfred Gallery</a>
+[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/switch-appearance)
 
 ## Usage
 
-Set the appearance mode of macOS via the keywords (defaults: `light`, `dark`, `toggle`).
+Set macOS’ appearance mode via the `light`, `dark`, and `toggle` keywords.
 
 ![Turn on light mode](Workflow/images/about/light.png)
 

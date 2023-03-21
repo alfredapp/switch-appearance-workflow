@@ -299,7 +299,7 @@ Set macOS’ appearance mode via the `light`, `dark`, and `toggle` keywords.
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2023.1</string>
+	<string>2023.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/switch-appearance-workflow/</string>
 </dict>
