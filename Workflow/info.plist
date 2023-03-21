@@ -174,7 +174,7 @@
 	<key>readme</key>
 	<string>## Usage
 
-Set the appearance mode of macOS via the keywords (defaults: `light`, `dark`, `toggle`).
+Set macOS’ appearance mode via the `light`, `dark`, and `toggle` keywords.
 
 ![Turn on light mode](images/about/light.png)
 
