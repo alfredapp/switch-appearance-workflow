@@ -63,6 +63,8 @@
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>{var:light_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -117,6 +119,8 @@
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>{var:dark_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -156,6 +160,8 @@
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>{var:toggle_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>Light Mode changes to Dark Mode and vice-versa</string>
 				<key>text</key>
